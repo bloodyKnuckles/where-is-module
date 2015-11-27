@@ -1,0 +1,30 @@
+{
+  "name": "where-is-module",
+  "version": "0.1.0",
+  "description": "Bash script that searches javascript files for a named module.",
+  "main": "bin/where-is-module",
+  "preferGlobal": "true",
+  "os": [ "darwin", "linux" ],
+  "bin": {
+    "whereismodule": "./bin/where-is-module"
+  },
+  "scripts": {
+    "whereis": "./bin/where-is-module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodyKnuckles/where-is-module.git"
+  },
+  "keywords": [
+    "find",
+    "where",
+    "module",
+    "required"
+  ],
+  "author": "Jay Scott ANDERSON",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodyKnuckles/where-is-module/issues"
+  },
+  "homepage": "https://github.com/bloodyKnuckles/where-is-module#readme"
+}
