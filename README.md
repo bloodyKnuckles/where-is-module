@@ -12,7 +12,7 @@ $whereismodule modulename
 Or add this `whereis` key/value pair to your `package.json` scripts objects:
 ```
 "scripts": {
-    "whereis": "where-is-module"
+    "whereis": "whereismodule"
 }
 ```
 
