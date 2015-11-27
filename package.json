@@ -2,6 +2,7 @@
   "name": "where-is-module",
   "version": "0.1.1",
   "description": "Bash script that searches javascript files for a named module.",
+  "readmeFilename": "README.md",
   "main": "bin/where-is-module",
   "preferGlobal": "true",
   "os": [
