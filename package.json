@@ -1,10 +1,13 @@
 {
   "name": "where-is-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bash script that searches javascript files for a named module.",
   "main": "bin/where-is-module",
   "preferGlobal": "true",
-  "os": [ "darwin", "linux" ],
+  "os": [
+    "darwin",
+    "linux"
+  ],
   "bin": {
     "whereismodule": "./bin/where-is-module"
   },
