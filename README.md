@@ -32,6 +32,7 @@ Outputs:
 
 Copy the `./bin/where-is-module` program to your computer, make it executable, and be sure the
 installation directory is in your $PATH.
+<<<<<<< HEAD
 
 ### license
 
